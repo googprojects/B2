@@ -34,7 +34,7 @@
 
 ## 📷 Demo
 
-**Upscaled Output (720p → 1080p)**  
+**Upscaled Output (634p → 1080p)**  
 *Real-time upscale applied using B2*
 
 ### 🖥️ Fullscreen View
