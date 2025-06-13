@@ -32,3 +32,16 @@
 
 ---
 
+## 📷 Demo
+
+**Upscaled Output (720p → 1080p)**  
+*Real-time upscale applied using B2*
+
+### 🖥️ Fullscreen View
+![Upscaled Fullscreen](demos/demo1.png)
+
+### 🔍 Zoomed-In Detail View
+![Upscaled Zoom View](demos/demo2.png)
+
+---
+
